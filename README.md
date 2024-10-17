@@ -9,6 +9,4 @@ I'm **Ritu Bafna**, a highly motivated MSc Advanced Computer Science student at 
 - 📫 How to reach me: [ritujane78@gmail.com](mailto:ritujane78@gmail.com) | [LinkedIn](https://linkedin.com/in/ritu-bafna-3765b231/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m passionate about designing complex systems that enhance both performance and user experience!
-- 🌐 My apps built in HTML, CSS, and JavaScript:
-  - [Responsive Food App](https://food-jane.netlify.app/)
-  - [Bankist App](https://bankist-ritujane.netlify.app/)
+
