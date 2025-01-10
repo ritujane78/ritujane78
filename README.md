@@ -5,7 +5,7 @@ I'm **Ritu Bafna**, a highly motivated MSc Advanced Computer Science distinction
 - 🔭 I’ve worked on projects that leverage AI algorithms, big data manipulation using Elasticsearch, and optimization tools like Gurobi.
 - 🌱 I’ve learned about Multi-Agent Systems, Web Mapping and Geovisualisation.
 - 👯 I’m looking to collaborate on AI-driven and software development projects.
-- 💬 Ask me about JavaScript, NodeJS , ReactJS Python or other cool programming languages and frameworks.
+- 💬 Ask me about JavaScript, NodeJS , ReactJS, Python or other cool programming languages and frameworks.
 - 📫 How to reach me: [ritujane78@gmail.com](mailto:ritujane78@gmail.com) | [LinkedIn](https://linkedin.com/in/ritu-bafna-3765b231/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m passionate about designing complex systems that enhance both performance and user experience!
